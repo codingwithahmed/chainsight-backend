@@ -1,0 +1,10 @@
+{
+    "PORT": 4545,
+    "DB_ADDRESS": "mongodb://localhost:27017/chainsight",
+    "SALT_ROUNDS": 8,
+    "PRIVATE_KEY": "chainsight-3142323524gh204gy2408ut04927520974-23y",
+    "ETHPLORER_API_KEY": "EK-e2fVE-5nBhuYj-uyS3Y",
+    "ETHPLORER_BASE_URL": "https://api.ethplorer.io"
+}
+
+
