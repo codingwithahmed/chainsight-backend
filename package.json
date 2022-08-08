@@ -24,7 +24,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "tsc & node .",
+    "start": "tsc & node ./build/app.js",
     "dev": "concurrently \"tsc -w\" \" nodemon ./build/app.js\""
   }
 }
